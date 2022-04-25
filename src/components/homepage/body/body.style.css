@@ -1,0 +1,12 @@
+.body-buttons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.body-buttons .create-schedule{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
